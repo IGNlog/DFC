@@ -1,0 +1,6 @@
+c:\users\iglog\documents\visual studio 2015\Projects\DFC\DFC\bin\Debug\DFC.exe.config
+C:\Users\IGlog\documents\visual studio 2015\Projects\DFC\DFC\bin\Debug\DFC.exe
+C:\Users\IGlog\documents\visual studio 2015\Projects\DFC\DFC\bin\Debug\DFC.pdb
+C:\Users\IGlog\documents\visual studio 2015\Projects\DFC\DFC\obj\Debug\DFC.csprojResolveAssemblyReference.cache
+C:\Users\IGlog\documents\visual studio 2015\Projects\DFC\DFC\obj\Debug\DFC.exe
+C:\Users\IGlog\documents\visual studio 2015\Projects\DFC\DFC\obj\Debug\DFC.pdb
